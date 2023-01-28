@@ -70,3 +70,5 @@ searchBtn.addEventListener("click", () => {
       });
   }
 });
+
+console.log(123);
